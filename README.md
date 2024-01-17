@@ -6,6 +6,6 @@
 
 Зроблено з ❤ та з [Mobirise](http://mobirise.com)
 
-Середовище розробки - [VisualStudio Code](https://code.visualstudio.com/), частково використано [код](https://codepen.io/matthewcain/pen/ZepbeR) від Matthew Cain.
+Середовище розробки (чи скоріш "доробки") - [VisualStudio Code](https://code.visualstudio.com/), частково використано [код](https://codepen.io/matthewcain/pen/ZepbeR) від Matthew Cain.
 
 
